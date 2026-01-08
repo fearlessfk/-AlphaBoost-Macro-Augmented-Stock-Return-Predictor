@@ -1,8 +1,0 @@
-{"editor.cursorStyle": "line",
-"editor.cursorWidth": 2,
-"editor.cursorBlinking": "solid",
-"workbench.colorCustomizations": {
-    "editorCursor.foreground": "#ffffff" // 白色光标，可改成#000000（黑色）或你喜欢的颜色
-}
- 
-}
