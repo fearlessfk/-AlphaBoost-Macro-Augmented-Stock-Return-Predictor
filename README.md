@@ -24,7 +24,7 @@ In highly volatile assets like Tesla, the model significantly outperformed the "
 - **Strategy Return:** **+138.69%** 🚀
 - **Benchmark Return:** +76.46%
 
-![TSLA Backtest](assets/backtest_tsla.png)
+![TSLA Backtest](backtest_tsla.png.png)
 *(Strategy Equity Curve vs. Buy & Hold Benchmark)*
 
 #### 🛡️ Risk Management: AAPL (Bull Market Regime)
@@ -68,7 +68,7 @@ To strictly prevent **Look-ahead Bias**, the model uses **Rolling Window Validat
 
 What drives the prediction? The model identifies **Moving Average Ratios** and **Lagged Returns** as the most significant predictors, followed by **RSI** and **VIX**.
 
-![Feature Importance](assets/feature_importance.png)
+![Feature Importance](feature_importance.png.png)
 
 ---
 
