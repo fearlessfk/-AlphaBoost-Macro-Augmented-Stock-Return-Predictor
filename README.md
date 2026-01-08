@@ -76,4 +76,4 @@ What drives the prediction? The model identifies **Moving Average Ratios** and *
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/AlphaBoost.git
+   git clone https://github.com/fearlessfk/AlphaBoost-Stock-Prediction.git
